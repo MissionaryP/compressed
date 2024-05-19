@@ -1,0 +1,23 @@
+{
+  "title": "Google",
+  "headings": [],
+  "buttons": [],
+  "inputs": [
+    {
+      "name": "q",
+      "value": ""
+    },
+    {
+      "type": "submit",
+      "name": "btnG",
+      "value": "Buscar con Google"
+    },
+    {
+      "type": "submit",
+      "name": "btnI",
+      "value": "Voy a tener suerte"
+    }
+  ],
+  "carousels": [],
+  "selects": []
+}
